@@ -1,0 +1,53 @@
+index,Metal Tag,Target
+protein1,Ar80,ArgonDimers
+protein2,Ru96,RutheniumTetroxide
+protein3,Ru98,RutheniumTetroxide
+protein4,Ru99,RutheniumTetroxide
+protein5,Ru100,RutheniumTetroxide
+protein6,Ru101,RutheniumTetroxide
+protein7,Ru102,RutheniumTetroxide
+protein8,Ru104,RutheniumTetroxide
+protein9,,
+protein10,In113,Histone H3
+protein11,La139,Histone H3
+protein12,Pr141,Cytokeratin 5
+protein13,Nd142,Fibronectin
+protein14,Nd143,Cytokeratin 19
+protein15,Nd144,Cytokeratin 8/18
+protein16,Nd145,Twist
+protein17,Nd146,CD68
+protein18,Sm147,Keratin 14 (KRT14)
+protein19,Nd148,SMA
+protein20,Sm149,Vimentin
+protein21,Nd150,c-Myc
+protein22,Eu151,c-erbB-2 - Her2
+protein23,Sm152,CD3
+protein24,Eu153,Histone H3
+protein25,Sm154,Erk1/2
+protein26,Gd155,Slug
+protein27,Gd156,Rabbit IgG H L
+protein28,Gd158,Progesterone Receptor A/B
+protein29,Gd158,Progesterone Receptor A/B
+protein30,Tb159,p53
+protein31,Gd160,CD44
+protein32,Dy161,EpCAM
+protein33,Dy162,CD45
+protein34,Dy163,GATA3
+protein35,Dy164,CD20
+protein36,Ho165,b-Catenin
+protein37,Er166,Carbonic Anhydrase IX
+protein38,Er167,undefined
+protein39,Er168,Ki-67
+protein40,Tm169,EGFR
+protein41,Er170,S6
+protein42,Yb171,Sox9
+protein43,Yb172,vWF
+protein44,Yb172,CD31
+protein45,Yb173,mTOR
+protein46,Yb174,Cytokeratin 7
+protein47,Lu175,pan Cytokeratin
+protein48,Lu175,Keratin Epithelial
+protein49,Yb176,cleaved PARP
+protein50,Yb176,Cleaved Caspase3
+protein51,Ir191,DNA1
+protein52,Ir193,DNA2
