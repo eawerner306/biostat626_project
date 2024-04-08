@@ -4,3 +4,6 @@ rnn.rmd
 survival_prediction.ipynb
 test/images
 train/images
+.DS_Store
+Project.pdf
+.ibynb_checkpoints
