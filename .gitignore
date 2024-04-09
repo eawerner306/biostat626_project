@@ -7,3 +7,5 @@ train/images
 .DS_Store
 Project.pdf
 .ibynb_checkpoints
+.ipynb_checkpoints/
+.jupyter_ystore.db
