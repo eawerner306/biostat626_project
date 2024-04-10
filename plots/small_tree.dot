@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="protein27 <= 0.2\nsquared_error = 2740.1\nsamples = 143\nvalue = 80.4"] ;
+1 [label="protein45 <= 0.1\nsquared_error = 3250.9\nsamples = 76\nvalue = 97.0"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="protein5 <= 2.4\nsquared_error = 1846.1\nsamples = 28\nvalue = 66.9"] ;
+1 -> 2 ;
+3 [label="squared_error = 1177.8\nsamples = 15\nvalue = 93.6"] ;
+2 -> 3 ;
+4 [label="squared_error = 1094.0\nsamples = 13\nvalue = 40.2"] ;
+2 -> 4 ;
+5 [label="protein19 <= 0.1\nsquared_error = 3275.8\nsamples = 48\nvalue = 111.9"] ;
+1 -> 5 ;
+6 [label="squared_error = 3186.3\nsamples = 40\nvalue = 122.8"] ;
+5 -> 6 ;
+7 [label="squared_error = 423.7\nsamples = 8\nvalue = 59.8"] ;
+5 -> 7 ;
+8 [label="protein7 <= 3.6\nsquared_error = 1450.7\nsamples = 67\nvalue = 61.1"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="protein27 <= 0.4\nsquared_error = 926.0\nsamples = 3\nvalue = 126.0"] ;
+8 -> 9 ;
+10 [label="squared_error = 22.2\nsamples = 2\nvalue = 150.7"] ;
+9 -> 10 ;
+11 [label="squared_error = 0.0\nsamples = 1\nvalue = 89.0"] ;
+9 -> 11 ;
+12 [label="protein16 <= 0.5\nsquared_error = 1253.5\nsamples = 64\nvalue = 57.8"] ;
+8 -> 12 ;
+13 [label="squared_error = 924.5\nsamples = 30\nvalue = 43.2"] ;
+12 -> 13 ;
+14 [label="squared_error = 1175.3\nsamples = 34\nvalue = 71.5"] ;
+12 -> 14 ;
+}
